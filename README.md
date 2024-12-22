@@ -26,7 +26,8 @@ This project is a **Smart Electronic Voting Machine (EVM)** developed using **Ar
 ---
 
 ## Block Diagram
-![Block Diagram](images/block_diagram.jpg)
+![Block Diagram](evm_pic.png)
+
 
 ---
 
